@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/TroleyDEV?tab=repositories)
 
 - 📫 How to reach me **troleyhs@gmail.com**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mateusz-młynarczyk-9665b72b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-młynarczyk-9665b72b3" height="30" width="40" /></a>
 <a href="https://instagram.com/troley_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="troley_m" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/troleydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="troleydev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
